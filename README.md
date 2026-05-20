@@ -1,1 +1,0 @@
-# materiq_mvp
